@@ -1,17 +1,37 @@
 
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    font-family: arial;
+}
 
 
-
-
-
-
-
-
-
+#products li {
+    position: relative; 
+    background-color: #566577;
+    border-radius: 4px;
+}
+#products li .placemark {
+    top:20px;
+    left:5px;
+    position:absolute;
+    height:30px; 
+}
+#products li .location {
+    top:10px;
+    left:30px;
+    position:absolute;
+    line-height:50px;
+    font-size:14px;
+}
+#products li .image {
+    margin:65px 0 10px;
+    width:100%;
+}
+#products li p {
+   padding: 10px; 
+}
 
 
 
