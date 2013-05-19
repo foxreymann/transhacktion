@@ -5,7 +5,10 @@
     $product = $products[$key];
 ?>
     <div class="row" id="products">
-    <h3>Price: £1 for charity</h3>
+    <h3>Congratulations on your purchase!!</h3>
+    <p>Seller contact details:</p>
+    <p>tomasz.jureczko@gmail.com</p>
+    <p>07930005222</p>
     <ul class="unstyled">
         <li>
             <a href="#">
@@ -18,11 +21,6 @@
     </ul>
     </div>
 </div>
-    <footer class="buy">
-        <a href="buy.php">
-            BUY!! 
-        </a>
-    </footer>
 
 <?php
     include('footer.php');
