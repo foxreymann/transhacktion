@@ -20,7 +20,10 @@
 ?>
     </ul>
     </div>
-
+</div>
+    <footer>
+            SELL!! 
+    </footer>
 
 
 <?php
