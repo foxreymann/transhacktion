@@ -5,7 +5,7 @@
     $product = $products[$key];
 ?>
     <div class="row" id="products">
-    <h3>Price: £1 for charity</h3>
+    <h3>Price: £2 for charity</h3>
     <ul class="unstyled">
         <li>
             <a href="#">

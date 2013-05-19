@@ -3,7 +3,7 @@
 ?>
 
     <div class="row" style="margin-top:10px"  >
-      <form action="/bought.php" method="POST" id="braintree-payment-form">
+      <form action="/trans.php" method="POST" id="braintree-payment-form">
         <p>
           <label>Card Number</label>
           <input type="text" size="20" autocomplete="off" data-encrypted-name="number" />

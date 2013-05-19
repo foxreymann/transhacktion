@@ -22,7 +22,9 @@
     </div>
 </div>
     <footer>
-            SELL!! 
+        <a href="sell.php">
+            SELL!!
+        </a>
     </footer>
 
 
